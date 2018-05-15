@@ -1,0 +1,9 @@
+Architecture: iphoneos-arm
+Author: citizen
+Depiction: https://github.com/ihorlaitan/ihorlaitan.github.io
+Description: Repository for Loyal citizen
+Maintainer: ihorlaitan <ihorlaitan@yahoo.com>
+Name: citizen
+Package: com.ihorlaitan.citizen
+Section: Tweaks
+Version: 1.0.r1
