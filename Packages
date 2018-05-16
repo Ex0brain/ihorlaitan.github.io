@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: bilal
 Filename: ./debs/com.bilal.swipeexpander_1.0.b1_iphoneos-arm.deb
 Size: 155088
-MD5sum: dc99758aa91b1a4ad234e2be9d5a5b6b
-SHA1: dd35799c07a1967b144a06e3bf693fc3fcb5ac1c
-SHA256: 460259a30e4a0707c9cb51ef6d3ac7afbc9b734bedee13a73cab827d1ade4e84
+MD5sum: c6ed2d29a9d6ffc488f8144a38162a6d
+SHA1: 113c909ca1488f702b6704820de6f806cce4af28
+SHA256: 2757b6deac21fbe55427bea3ec33b04c51d4aaa5212c6a93a676efa9500f5de2
 Section: tweaks
 Homepage: ihorlaitan.github.io
 Description: mighty tweaks for ios keyboard
@@ -20,9 +20,9 @@ Architecture: iphoneos-arm
 Maintainer: ihorlaitan <ihorlaitan@yahoo.com>
 Filename: ./debs/com.ihorlaitan.citizen_1.0.r1_iphoneos-arm.deb
 Size: 14960
-MD5sum: cb39be01bd43362d22022c41340f7405
-SHA1: 5454b117023da6b0f6d610fbc7a32273a606fc55
-SHA256: 0499b4f3fde300e963996df39a6e54097d207e7a55342e68319d7baa76d027b9
+MD5sum: 2a1f656dea8bbae73d9ffc657869d35a
+SHA1: 3411ef6ff4dc87e0f0a31629c7849a123a239ed8
+SHA256: 837c4f5480e08ee414417f087d756b1092f66ea919765d1e2291383fc064aeca
 Section: Tweaks
 Description: Repository for Loyal citizen
 Author: citizen
