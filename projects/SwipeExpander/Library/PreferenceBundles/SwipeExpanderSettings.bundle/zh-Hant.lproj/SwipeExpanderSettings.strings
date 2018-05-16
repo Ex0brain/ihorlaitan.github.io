@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Start Dictation</key>
+	<string>開始語音辨識</string>
+	<key>Dictation</key>
+	<string>語音辨識</string>
+	<key>Key Already Assigned</key>
+	<string>按鍵已被分配</string>
+	<key>The '%@' key is already assigned to an action. Do you wish to overwrite it?</key>
+	<string>在 '%@' 鍵已經分配給一個動作。你是否想覆蓋它嗎?</string>
+	<key>No</key>
+	<string>不</string>
+	<key>Yes</key>
+	<string>是</string>
+	<key>Change Keyboard Type</key>
+	<string>更改鍵盤類型</string>
+	<key>Cancel</key>
+	<string>取消</string>
+	<key>Convert to Uppercase</key>
+	<string>轉換為大寫</string>
+	<key>uppercase</key>
+	<string>大寫</string>
+	<key>Convert to Lowercase</key>
+	<string>轉換為小寫字母</string>
+	<key>lowercase</key>
+	<string>小寫</string>
+	<key>Action</key>
+	<string>動作</string>
+	<key>Add New Action</key>
+	<string>新增新動作</string>
+	<key>Assign New Key</key>
+	<string>分配新的按鍵</string>
+	<key>Assigned Keys</key>
+	<string>分配的快速鍵</string>
+	<key>Changing the character position requires a respring to update.</key>
+	<string>更改字符位置需要respring更新</string>
+	<key>Character Position</key>
+	<string>字符位置</string>
+	<key>Copy</key>
+	<string>複製</string>
+	<key>Cut</key>
+	<string>剪切</string>
+	<key>Define</key>
+	<string>定義</string>
+	<key>Delete Forward</key>
+	<string>向前刪除</string>
+	<key>Delete Word</key>
+	<string>刪除文字</string>
+	<key>Dismiss Autocorrect</key>
+	<string>關閉自動更正</string>
+	<key>Dismiss Keyboard</key>
+	<string>關閉鍵盤</string>
+	<key>Hide Unusable Menu Actions</key>
+	<string>隱藏無法使用功能表操作</string>
+	<key>High</key>
+	<string>高</string>
+	<key>Insert Last Photo</key>
+	<string>插入最後一張照片</string>
+	<key>Insert Text</key>
+	<string>插入文字</string>
+	<key>Keyboard Prevents CC</key>
+	<string>避免在使用鍵盤時拉出控制中心</string>
+	<key>Keyboards</key>
+	<string>鍵盤</string>
+	<key>Landscape Character Position</key>
+	<string>橫向字符位置</string>
+	<key>Landscape Position</key>
+	<string>橫向位置</string>
+	<key>Landscape Size</key>
+	<string>橫向大小</string>
+	<key>Low</key>
+	<string>低</string>
+	<key>Medium</key>
+	<string>中</string>
+	<key>Menu</key>
+	<string>功能表</string>
+	<key>Move Caret Down</key>
+	<string>游標向下</string>
+	<key>Move Caret Left</key>
+	<string>游標向左</string>
+	<key>Move Caret Right</key>
+	<string>游標向右</string>
+	<key>Move Caret Up</key>
+	<string>游標向上</string>
+	<key>Move Caret to Beginning</key>
+	<string>游標移置句首</string>
+	<key>Move Caret to End</key>
+	<string>游標移置句尾</string>
+	<key>Name</key>
+	<string>名稱</string>
+	<key>Names</key>
+	<string>名稱</string>
+	<key>Opacity</key>
+	<string>不透明度</string>
+	<key>Open App Switcher</key>
+	<string>打開應用程式切換</string>
+	<key>Open Control Center</key>
+	<string>打開控制中心</string>
+	<key>Open Menu</key>
+	<string>打開功能表</string>
+	<key>Paste</key>
+	<string>貼上</string>
+	<key>Position</key>
+	<string>位置</string>
+	<key>Redo</key>
+	<string>重做</string>
+	<key>Select</key>
+	<string>選擇</string>
+	<key>Select All</key>
+	<string>全選</string>
+	<key>Sensitivity</key>
+	<string>靈敏度</string>
+	<key>Show Letter Case</key>
+	<string>顯示字母大小寫</string>
+	<key>Show Names on Keys</key>
+	<string>按鍵上顯示名稱</string>
+	<key>Show Previews</key>
+	<string>顯示預覽</string>
+	<key>Size</key>
+	<string>大小</string>
+	<key>Swipe Down</key>
+	<string>向下刷動</string>
+	<key>Swipe Up</key>
+	<string>向上滑動</string>
+	<key>Text</key>
+	<string>文字</string>
+	<key>This will hide actions in a menu when they can't be used such as 'copy' when there is nothing selected.</key>
+	<string>這將隱藏功能表中的操作，例如“複製”的時候不會出現選擇的功能表中的操作</string>
+	<key>Toggle Caps Lock</key>
+	<string>切換大寫鎖定</string>
+	<key>Toggle Word Case</key>
+	<string>切換字首大小寫</string>
+	<key>Undo</key>
+	<string>撤銷</string>
+	<key>Very High</key>
+	<string>非常高</string>
+	<key>Very Low</key>
+	<string>非常低</string>
+	<key>app switcher</key>
+	<string>應用程式切換</string>
+	<key>control center</key>
+	<string>控制中心</string>
+	<key>copy</key>
+	<string>複製</string>
+	<key>cut</key>
+	<string>剪切</string>
+	<key>define</key>
+	<string>定義</string>
+	<key>delete forward</key>
+	<string>向前刪除</string>
+	<key>delete word</key>
+	<string>刪除文字</string>
+	<key>dismiss autocorrect</key>
+	<string>關閉自動更正</string>
+	<key>dismiss keyboard</key>
+	<string>關閉鍵盤</string>
+	<key>insert last photo</key>
+	<string>插入最後一張照片</string>
+	<key>paste</key>
+	<string>貼上</string>
+	<key>redo</key>
+	<string>重做</string>
+	<key>select</key>
+	<string>選擇</string>
+	<key>select all</key>
+	<string>全選</string>
+	<key>text</key>
+	<string>文字</string>
+	<key>toggle word case</key>
+	<string>切換字首大小寫</string>
+	<key>undo</key>
+	<string>撤銷</string>
+	<key>© 2018 Bilal</key>
+	<string>© 2018 Bilal</string>
+</dict>
+</plist>

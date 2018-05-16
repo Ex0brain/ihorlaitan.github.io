@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: ihorlaitan <ihorlaitan@yahoo.com>
 Filename: ./debs/com.ihorlaitan.citizen_1.0.r1_iphoneos-arm.deb
 Size: 14624
-MD5sum: 45f4b87936d7384ec59fd23214a15f72
-SHA1: 497707fe9142e777f30bb38b1b9027a59c1f246f
-SHA256: 17010915fdf3ff6511d41ae1ee6c9620c20507a4656a29911bfa59a2b189727b
+MD5sum: 3356ba5c0383363b4d75e78b6a3df32d
+SHA1: b5e3ef51a2cd53e998371c23870f0e6952dd0912
+SHA256: 55de55617ad28cdfb96ab6547802154f0412dd7a201d26dbe39af8a03675793f
 Section: Tweaks
 Description: Repository for Loyal citizen
 Author: citizen

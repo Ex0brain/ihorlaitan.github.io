@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>title</key>
+	<string>SwipeExpander</string>
+	<key>entry</key>
+	<dict>
+		<key>cell</key>
+		<string>PSLinkCell</string>
+		<key>icon</key>
+		<string>SwipeExpander.png</string>
+		<key>label</key>
+		<string>SwipeExpander</string>
+		<key>bundle</key>
+		<string>SwipeExpanderSettings</string>
+		<key>isController</key>
+		<true/>
+		<key>detail</key>
+		<string>SwipeExpanderSettingsListController</string>
+	</dict>
+</dict>
+</plist>
