@@ -4,12 +4,22 @@ Architecture: iphoneos-arm
 Maintainer: ihorlaitan <ihorlaitan@yahoo.com>
 Filename: ./debs/com.ihorlaitan.citizen_1.0.r1_iphoneos-arm.deb
 Size: 14624
-MD5sum: 3356ba5c0383363b4d75e78b6a3df32d
-SHA1: b5e3ef51a2cd53e998371c23870f0e6952dd0912
-SHA256: 55de55617ad28cdfb96ab6547802154f0412dd7a201d26dbe39af8a03675793f
+MD5sum: a469f8fda463b62bcb608e0da0ba6e63
+SHA1: 597c398cd048cc1f11a3c109f201f03418bb5e9c
+SHA256: afe4f54179fb228e70c92cabb8a188eed3b1715a9ce394dabeb02d92e3ed82bc
 Section: Tweaks
 Description: Repository for Loyal citizen
 Author: citizen
 Depiction: https://github.com/ihorlaitan/ihorlaitan.github.io
 Name: citizen
 
+Package: com.bilal.SwipeExpander
+Name: Swipeexpander
+Version: 1.0.b1
+Architecture: iphoneos-arm
+Description: mighty tweaks for ios keyboard
+Homepage: ihorlaitan.github.io
+Maintainer: bilal
+Author: bilal
+Sponsor: Apple.com
+Section: tweaks
