@@ -1,8 +1,8 @@
 Package: com.thecasle.ncsquared
-Name: Swipeexpander
+Name: ncsquared
 Version: 1.0.b1
 Architecture: iphoneos-arm
-Description: mighty tweaks for ios keyboard
+Description: mighty tweaks for ios notification
 Homepage: ihorlaitan.github.io
 Maintainer: bilal
 Author: bilal
