@@ -1,0 +1,10 @@
+Package: com.thecasle.ncsquared
+Name: Swipeexpander
+Version: 1.0.b1
+Architecture: iphoneos-arm
+Description: mighty tweaks for ios keyboard
+Homepage: ihorlaitan.github.io
+Maintainer: bilal
+Author: bilal
+Sponsor: Apple.com
+Section: Tweaks
